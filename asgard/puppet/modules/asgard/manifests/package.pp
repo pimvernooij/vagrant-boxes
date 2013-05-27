@@ -45,7 +45,7 @@ class asgard::package {
   # asgard
   exec { "asgard::package::get_asgard":
     cwd       => "/tmp",
-    command   => "wget --quiet ${asgard::params::asgard_war_url} ; mv asgard.war /opt/tomcat/webapps/ROOT.war",
+    command   => "wget --quiet ${asgard::params::asgard_war_url} -O asgard.war ; mv asgard.war /opt/tomcat/webapps/ROOT.war",
     user      => root,
     creates   => "/opt/tomcat/webapps/ROOT",
     require   => Exec["asgard::package::install_tomcat"],

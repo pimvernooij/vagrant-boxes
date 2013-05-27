@@ -1,5 +1,5 @@
 class asgard::params {
-  $asgard_war_url = "https://github.com/downloads/Netflix/asgard/asgard.war"
+  $asgard_war_url = "https://netflix.boxcloud.com/bc/2/2fbfff145952131d2515ed02d3a80407/oxsr6n5bVQhyic6N7TfrMf0sVTkQUOBIH0HsZBGRDI0si84Chpt_3ZjzaZYMPOwbyyATOQjCMtuz5i34lvwOPzn6vqjPIlTrSc5QsrWM9azon8_U4LjbzhWHmhk5Jz40E9L2kFWHtSdtuLT1BX4MbfVgUcmXL2YRkHmJrcahVWTde5Y0OQ-If3kpwSNgVMW1sYWvfTcCty2uN8RVCgqhFsaIXn0Sx6O4AD7grPrLgX2OwFq-m0OBXJjr-G9EaQpwZmopVaDoqbUvtGNwCudh4ycXoXsS3ZrNATjiZuVbxOMSzCFQBy0npnVoBwYAbTV7h7zhwl-AQYdPFzTK94KNVZHw2kKVCoWRLegb4HVfYe1rZx9FQadu0bVr4RA0DNQYfI991q1gyrA4NKEQsQPS0_hJyYjG7JOiLUcbeMCZmTKPs1u8WIjNXUE4A-5d8Nri77TUP1_YeqG7bfwupl_ND3ptDLoMheykbdXwCTEXggmhxchUbDzJaiMbhbfBG9oKGCmxdzGG3ZGv1iO7Fq54CPcYlxYx1tvsGsRaRUsTSKJKhhNOaRS6Juc3rRtQDyHMe5qWrVtFh_C7G3HEcyOVxkpGUA3DNRpxbTN6Z6nNTy7124RbffrGg1Mle9-3Fj7UVpqMBkxxA4gl8lrrhNCn4RVYVGojvVqk-9j7zz8iIck5Ifk8DY-fcez8rkap2JUCztrhSjbsFKZc4pnpee7TF4jw98_iAR5WgPBUuiUL9i54WPzi6aigZEGrnwgC9RXzJBWUd7pYJx3AIkYViBP-X4xWT7K9MSylI0MlaSeoIxQ,/0107b50635c646bcee1c0b03a59eceab03414c4b7100b065bc9feff989882088/"
   $jdk_url = "http://download.oracle.com/otn-pub/java/jdk/6u32-b05/jdk-6u32-linux-x64.bin"
-  $tomcat_url = "http://mirror.symnds.com/software/Apache/tomcat/tomcat-7/v7.0.28/bin/apache-tomcat-7.0.28.tar.gz"
+  $tomcat_url = "http://mirror.symnds.com/software/Apache/tomcat/tomcat-7/v7.0.40/bin/apache-tomcat-7.0.40.tar.gz"
 }
